@@ -20,7 +20,7 @@ class NameViewController: UIViewController {
 
         // Do any additional setup after loading the view
         let result = name
-        label.text = "結果は \(result) です"
+        label.text = "こんにちは、 \(result) さん"
 
     }
 
