@@ -14,6 +14,7 @@
 		FBF60B881D6948E70096D9DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBF60B861D6948E70096D9DF /* LaunchScreen.storyboard */; };
 		FBF60B931D6948E70096D9DF /* SecondKadaiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF60B921D6948E70096D9DF /* SecondKadaiTests.swift */; };
 		FBF60B9E1D6948E70096D9DF /* SecondKadaiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF60B9D1D6948E70096D9DF /* SecondKadaiUITests.swift */; };
+		FBF60BAC1D6949740096D9DF /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF60BAB1D6949740096D9DF /* NameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FBF60B991D6948E70096D9DF /* SecondKadaiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF60B9D1D6948E70096D9DF /* SecondKadaiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiUITests.swift; sourceTree = "<group>"; };
 		FBF60B9F1D6948E70096D9DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBF60BAB1D6949740096D9DF /* NameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				FBF60B7D1D6948E70096D9DF /* AppDelegate.swift */,
 				FBF60B7F1D6948E70096D9DF /* ViewController.swift */,
 				FBF60B811D6948E70096D9DF /* Main.storyboard */,
+				FBF60BAB1D6949740096D9DF /* NameViewController.swift */,
 				FBF60B841D6948E70096D9DF /* Assets.xcassets */,
 				FBF60B861D6948E70096D9DF /* LaunchScreen.storyboard */,
 				FBF60B891D6948E70096D9DF /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				FBF60B801D6948E70096D9DF /* ViewController.swift in Sources */,
 				FBF60B7E1D6948E70096D9DF /* AppDelegate.swift in Sources */,
+				FBF60BAC1D6949740096D9DF /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
